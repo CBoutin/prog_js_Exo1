@@ -27,7 +27,7 @@ sub(2)(2); // 0
 sub(2)(4); // -2
 
 
-Fonction adder acceptant un nombre indeterminé de paramètres et sa batterie de tests
+//Fonction adder acceptant un nombre indeterminé de paramètres et sa batterie de tests
 
 
 function adder(){
